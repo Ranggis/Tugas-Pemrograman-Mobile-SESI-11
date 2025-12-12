@@ -1,4 +1,4 @@
-<h1 align="center">React Native Todo App (SQLite)</h1>
+# React Native Todo App (SQLite)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
@@ -24,6 +24,35 @@ Aplikasi Todo berbasis React Native (Expo) yang menggunakan SQLite (`expo-sqlite
 * Migrasi skema otomatis: menambahkan kolom `finished_at` jika belum ada.
 * Fungsi utilitas: pencarian teks (`searchTodos`), query rentang tanggal (`getTodosByDateRange`), dan debug print (`debugPrintTodos`).
 * UI menggunakan `FlatList`, input teks, tombol edit/hapus, dan komponen checkbox kustom.
+
+---
+
+## Preview Fitur Filter
+
+Tabel berikut menampilkan tiga mode filter yang tersedia pada aplikasi Todo: All, Done, dan Undone.
+
+<table align="center">
+  <tr>
+    <th>No</th>
+    <th>Fitur</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>All</td>
+    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_all.png" width="260" /></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Done</td>
+    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_done.png" width="260" /></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Undone</td>
+    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_undone.png" width="260" /></td>
+  </tr>
+</table>
 
 ---
 
