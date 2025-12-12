@@ -174,9 +174,3 @@ Jika kamu ingin menambahkan fitur (mis. sinkronisasi ke remote, backup, atau fit
 ## Penulis
 
 Ranggis
-
----
-
-## Lisensi
-
-MIT
