@@ -40,17 +40,17 @@ Tabel berikut menampilkan tiga mode filter yang tersedia pada aplikasi Todo: All
   <tr>
     <td>1</td>
     <td>All</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_all.png" width="260" /></td>
+    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/all.jpg" width="260" /></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Done</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_done.png" width="260" /></td>
+    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/done.jpg" width="260" /></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Undone</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/raw/main/todo_undone.png" width="260" /></td>
+    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/undone.jpg" width="260" /></td>
   </tr>
 </table>
 
