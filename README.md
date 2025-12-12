@@ -1,4 +1,4 @@
-# React Native Todo App (SQLite)
+<h1 align="center">React Native Todo App (SQLite)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
