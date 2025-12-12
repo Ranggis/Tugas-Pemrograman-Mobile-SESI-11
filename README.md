@@ -31,28 +31,7 @@ Aplikasi Todo berbasis React Native (Expo) yang menggunakan SQLite (`expo-sqlite
 
 Tabel berikut menampilkan tiga mode filter yang tersedia pada aplikasi Todo: All, Done, dan Undone.
 
-<table align="center">
-  <tr>
-    <th>No</th>
-    <th>Fitur</th>
-    <th>Preview</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>All</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/all.jpg" width="260" /></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Done</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/done.jpg" width="260" /></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Undone</td>
-    <td><img src="https://github.com/Ranggis/Api-Image/blob/main/undone.jpg" width="260" /></td>
-  </tr>
-</table>
+<table align="center" style="border-collapse: collapse;"> <tr> <th style="padding: 8px; border-bottom: 1px solid #ccc;">No</th> <th style="padding: 8px; border-bottom: 1px solid #ccc;">Fitur</th> <th style="padding: 8px; border-bottom: 1px solid #ccc;">Preview</th> </tr> <tr> <td style="padding: 8px; text-align: center;">1</td> <td style="padding: 8px; text-align: center;">All</td> <td style="padding: 8px; text-align: center;"> <img src="https://github.com/Ranggis/Api-Image/blob/main/all.jpg" width="230" /> </td> </tr> <tr> <td style="padding: 8px; text-align: center;">2</td> <td style="padding: 8px; text-align: center;">Done</td> <td style="padding: 8px; text-align: center;"> <img src="https://github.com/Ranggis/Api-Image/blob/main/done.jpg" width="230" /> </td> </tr> <tr> <td style="padding: 8px; text-align: center;">3</td> <td style="padding: 8px; text-align: center;">Undone</td> <td style="padding: 8px; text-align: center;"> <img src="https://github.com/Ranggis/Api-Image/blob/main/undone.jpg" width="230" /> </td> </tr> </table>
 
 ---
 
