@@ -173,12 +173,6 @@ await deleteTodo(2);
 
 ---
 
-## Kontribusi
-
-Jika kamu ingin menambahkan fitur (mis. sinkronisasi ke remote, backup, atau fitur UI tambahan), ajukan PR dengan deskripsi perubahan dan alasan.
-
----
-
 ## Penulis
 
 Ranggis
